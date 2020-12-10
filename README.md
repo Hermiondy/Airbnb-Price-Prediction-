@@ -1,12 +1,12 @@
 # Airbnb-Price-Prediction-
-# For installing any libraries
+For installing any libraries
 '''
-#!pip install <library>
+!pip install <library>
 '''
 
-#import numpy as np
-#import pandas as pd
-#import seaborn as sns
+import numpy as np
+import pandas as pd
+import seaborn as sns
 import matplotlib
 import matplotlib.pyplot as plt
 import warnings
